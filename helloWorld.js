@@ -1,5 +1,6 @@
 function hello() {
-    console.log("Git is awesome")
+   let input = prompt("Enter a phrase here");
+   console.log(input)
 }
 
 hello()
